@@ -14,7 +14,6 @@ public class TestNGListener implements ITestListener {
        test = ExtentReportManager.createTest(result.getMethod().getMethodName());
    }
 
-
    @Override
    public void onTestSuccess(ITestResult result) {
        test.pass("Test Passed: " + result.getMethod().getMethodName());
