@@ -1,0 +1,1646 @@
+2025-03-16 23:45:15 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-16 23:45:15 INFO  utilities.RestHandler - Request body: models.User@1c6804cd
+2025-03-16 23:45:18 INFO  utilities.RestHandler - Response status code: 201
+2025-03-16 23:45:18 INFO  utilities.RestHandler - Response body: {"name":"Alice Smith","job":"Software Engineer","id":"626","createdAt":"2025-03-16T21:45:18.657Z"}
+2025-03-16 23:45:18 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:18 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=98
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742161518&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=7YsPzWyIftSOEK%2BPhvCya5g7GI5jWugT2Ip8OScyh4Q%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742161518&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=7YsPzWyIftSOEK%2BPhvCya5g7GI5jWugT2Ip8OScyh4Q%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"62-HRkSIVxqXeYiPExmI38FACg3hkE"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=92176fd21caf6f44-ATH
+server-timing=cfL4;desc="?proto=TCP&rtt=64327&min_rtt=41240&rtt_var=33057&sent=7&recv=9&lost=0&retrans=0&sent_bytes=3109&recv_bytes=796&delivery_rate=94536&cwnd=252&unsent_bytes=0&cid=447dbf289d40819d&ts=621&x=0"
+2025-03-16 23:45:20 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-16 23:45:20 INFO  utilities.RestHandler - Request body: models.User@38159384
+2025-03-16 23:45:20 INFO  utilities.RestHandler - Response status code: 201
+2025-03-16 23:45:20 INFO  utilities.RestHandler - Response body: {"name":"Bob Johnson","job":"Product Manager","id":"645","createdAt":"2025-03-16T21:45:20.693Z"}
+2025-03-16 23:45:20 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:20 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=96
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742161520&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=xGZ2sj%2BfNI1Is08zF9aU1dtu3fuMJyrVk9Nr4thE9Fc%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742161520&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=xGZ2sj%2BfNI1Is08zF9aU1dtu3fuMJyrVk9Nr4thE9Fc%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"60-uQcd4lkFjB3iT2dlx0hg1Aq9dt4"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=92176fdf6b3c50f3-IST
+server-timing=cfL4;desc="?proto=TCP&rtt=98807&min_rtt=61316&rtt_var=52477&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=794&delivery_rate=63564&cwnd=252&unsent_bytes=0&cid=978a544a888158a7&ts=334&x=0"
+2025-03-16 23:45:20 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-16 23:45:20 INFO  utilities.RestHandler - Request body: models.User@6ad6443
+2025-03-16 23:45:21 INFO  utilities.RestHandler - Response status code: 201
+2025-03-16 23:45:21 INFO  utilities.RestHandler - Response body: {"name":"Charlie Brown","job":"Data Analyst","id":"633","createdAt":"2025-03-16T21:45:21.377Z"}
+2025-03-16 23:45:21 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:21 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=95
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742161521&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=stEGIcykqsIiza17YFrJfbk9D%2Bj%2Fx80Lkp7C57sGFss%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742161521&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=stEGIcykqsIiza17YFrJfbk9D%2Bj%2Fx80Lkp7C57sGFss%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"5f-lv3l1IlXmXoac1M0zYf1ynMNbO8"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=92176fe3ca571ae8-IST
+server-timing=cfL4;desc="?proto=TCP&rtt=78717&min_rtt=62957&rtt_var=29899&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3110&recv_bytes=793&delivery_rate=61912&cwnd=252&unsent_bytes=0&cid=be73656b54a442cb&ts=318&x=0"
+2025-03-16 23:45:21 INFO  utilities.RestHandler - Sending PUT request to URL: https://reqres.in/api/users/633
+2025-03-16 23:45:21 INFO  utilities.RestHandler - Request body: models.User@24d8f87a
+2025-03-16 23:45:22 INFO  utilities.RestHandler - Response status code: 200
+2025-03-16 23:45:22 INFO  utilities.RestHandler - Response body: {"name":"Alice Updated","job":"Senior Software Engineer","updatedAt":"2025-03-16T21:45:22.086Z"}
+2025-03-16 23:45:22 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:22 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742161522&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=UMeBNeSstxxvKZNLedTXoPHRrMDklL6PjVUtps%2FdhVs%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742161522&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=UMeBNeSstxxvKZNLedTXoPHRrMDklL6PjVUtps%2FdhVs%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"60-dyZIFRSUVGO6Fcpmx+eZKUd626M"
+Via=1.1 vegur
+CF-Cache-Status=DYNAMIC
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92176fe7f971c0c5-IST
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=99041&min_rtt=63167&rtt_var=51180&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=808&delivery_rate=61732&cwnd=252&unsent_bytes=0&cid=d0c243746406e294&ts=327&x=0"
+2025-03-16 23:45:22 INFO  utilities.RestHandler - Sending PUT request to URL: https://reqres.in/api/users/633
+2025-03-16 23:45:22 INFO  utilities.RestHandler - Request body: models.User@35f7969d
+2025-03-16 23:45:22 INFO  utilities.RestHandler - Response status code: 200
+2025-03-16 23:45:22 INFO  utilities.RestHandler - Response body: {"name":"Bob Updated","job":"Lead QA Engineer","updatedAt":"2025-03-16T21:45:22.685Z"}
+2025-03-16 23:45:22 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:22 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742161522&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=UMeBNeSstxxvKZNLedTXoPHRrMDklL6PjVUtps%2FdhVs%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742161522&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=UMeBNeSstxxvKZNLedTXoPHRrMDklL6PjVUtps%2FdhVs%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"56-63YNcJrRiOjm0injix2tmwsvRp4"
+Via=1.1 vegur
+CF-Cache-Status=DYNAMIC
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92176fec1f99510c-IST
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=100012&min_rtt=63562&rtt_var=51870&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=798&delivery_rate=61346&cwnd=252&unsent_bytes=0&cid=0d6fc9b840bcb9ab&ts=283&x=0"
+2025-03-16 23:45:22 INFO  utilities.RestHandler - Sending PUT request to URL: https://reqres.in/api/users/633
+2025-03-16 23:45:22 INFO  utilities.RestHandler - Request body: models.User@79ab97fd
+2025-03-16 23:45:23 INFO  utilities.RestHandler - Response status code: 200
+2025-03-16 23:45:23 INFO  utilities.RestHandler - Response body: {"name":"Charlie Updated","job":"Lead Data Analyst","updatedAt":"2025-03-16T21:45:23.354Z"}
+2025-03-16 23:45:23 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:23 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742161523&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=ASHWe4RqaANFo4cmHz8QAioGQK%2Fkhh1P0JiwiZiUx8I%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742161523&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=ASHWe4RqaANFo4cmHz8QAioGQK%2Fkhh1P0JiwiZiUx8I%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"5b-JHJFWuE8J/yqSZX2oFESX/wwqeg"
+Via=1.1 vegur
+CF-Cache-Status=DYNAMIC
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92176ff04b9f50a6-IST
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=95116&min_rtt=62999&rtt_var=47179&sent=6&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=803&delivery_rate=61895&cwnd=252&unsent_bytes=0&cid=a52282ff10c2e85d&ts=299&x=0"
+2025-03-16 23:45:23 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=0
+2025-03-16 23:45:24 INFO  utilities.RestHandler - Response status code: 200
+2025-03-16 23:45:24 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-16 23:45:24 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:23 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742138847&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=RYVBxV36P4r1zY%2F7UqtGeozv45jHalpaiveXHKF8jYQ%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742138847&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=RYVBxV36P4r1zY%2F7UqtGeozv45jHalpaiveXHKF8jYQ%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=REVALIDATED
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92176ff3d906b817-IST
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=92914&min_rtt=61973&rtt_var=45321&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3110&recv_bytes=702&delivery_rate=61870&cwnd=252&unsent_bytes=0&cid=07a65e67c0fd1a2f&ts=278&x=0"
+2025-03-16 23:45:24 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-16 23:45:24 INFO  utilities.RestHandler - Response status code: 200
+2025-03-16 23:45:24 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-16 23:45:24 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:24 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=5135
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92176ff78995b817-IST
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=81612&min_rtt=68451&rtt_var=28317&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=702&delivery_rate=56950&cwnd=252&unsent_bytes=0&cid=1284d6fc8f9e527e&ts=138&x=0"
+2025-03-16 23:45:24 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=2
+2025-03-16 23:45:24 INFO  utilities.RestHandler - Response status code: 200
+2025-03-16 23:45:24 INFO  utilities.RestHandler - Response body: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-16 23:45:24 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:24 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Content-Encoding=gzip
+Cf-Ray=92176ffa896c6944-IST
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1739839925&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=A%2BttyagjEl3KlhbHPmbWyoZXMbz49FBrl0BIzoDnXi4%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1739839925&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=A%2BttyagjEl3KlhbHPmbWyoZXMbz49FBrl0BIzoDnXi4%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"440-ZjsmMKR8P3usr2uJZbOCGCxC3Uw"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+Cf-Cache-Status=HIT
+Age=5509
+Vary=Accept-Encoding
+Server=cloudflare
+server-timing=cfL4;desc="?proto=TCP&rtt=98955&min_rtt=61399&rtt_var=52577&sent=6&recv=8&lost=0&retrans=0&sent_bytes=3110&recv_bytes=702&delivery_rate=63500&cwnd=252&unsent_bytes=0&cid=f1adfba99109be1c&ts=174&x=0"
+2025-03-16 23:45:25 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=3
+2025-03-16 23:45:25 INFO  utilities.RestHandler - Response status code: 200
+2025-03-16 23:45:25 INFO  utilities.RestHandler - Response body: {"page":3,"per_page":6,"total":12,"total_pages":2,"data":[],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-16 23:45:25 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:25 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1741866814&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=VrarTuvhfFSqn1ETTdMiiHD%2Fbcsglnv894bfITOEDIo%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1741866814&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=VrarTuvhfFSqn1ETTdMiiHD%2Fbcsglnv894bfITOEDIo%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"ff-aGm564oP8PdTTBt7Rr/9A79zt7Q"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=4338
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92176ffd5cd91ad8-IST
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=81001&min_rtt=62602&rtt_var=32619&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=702&delivery_rate=62289&cwnd=252&unsent_bytes=0&cid=0b47aa52952523f4&ts=116&x=0"
+2025-03-16 23:45:25 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=4
+2025-03-16 23:45:25 INFO  utilities.RestHandler - Response status code: 200
+2025-03-16 23:45:25 INFO  utilities.RestHandler - Response body: {"page":4,"per_page":6,"total":12,"total_pages":2,"data":[],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-16 23:45:25 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:25 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742125919&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=N0YR9jrv41%2Fk3sihcgrd%2FNpQ7WTzkMhnekfdkdCSRgc%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742125919&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=N0YR9jrv41%2Fk3sihcgrd%2FNpQ7WTzkMhnekfdkdCSRgc%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"ff-ezWGDSC82Dk7QMM+atjOLS8jbHA"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=REVALIDATED
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92176fff8d51eea8-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=53558&min_rtt=40080&rtt_var=22673&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=97281&cwnd=252&unsent_bytes=0&cid=57878a62f387539c&ts=297&x=0"
+2025-03-16 23:45:25 INFO  utilities.RestHandler - Sending DELETE request to URL: https://reqres.in/api/users/633
+2025-03-16 23:45:26 INFO  utilities.RestHandler - Response status code: 204
+2025-03-16 23:45:26 INFO  utilities.RestHandler - Response body:
+2025-03-16 23:45:26 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:26 GMT
+Content-Length=0
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742161526&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Ua1HKEJy81%2FMrEUaf69a8FAMSCwocSQHLSQKkkak3gk%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742161526&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Ua1HKEJy81%2FMrEUaf69a8FAMSCwocSQHLSQKkkak3gk%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=921770034e49c0c5-IST
+server-timing=cfL4;desc="?proto=TCP&rtt=93033&min_rtt=63450&rtt_var=44601&sent=6&recv=8&lost=0&retrans=0&sent_bytes=3110&recv_bytes=702&delivery_rate=61457&cwnd=252&unsent_bytes=0&cid=ccc356b04d0251a2&ts=304&x=0"
+2025-03-16 23:45:26 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-16 23:45:26 INFO  utilities.RestHandler - Request body: models.User@2296127
+2025-03-16 23:45:27 INFO  utilities.RestHandler - Response status code: 201
+2025-03-16 23:45:27 INFO  utilities.RestHandler - Response body: {"name":"","job":"-","id":"146","createdAt":"2025-03-16T21:45:26.919Z"}
+2025-03-16 23:45:27 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:26 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=71
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742161526&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Ua1HKEJy81%2FMrEUaf69a8FAMSCwocSQHLSQKkkak3gk%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742161526&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Ua1HKEJy81%2FMrEUaf69a8FAMSCwocSQHLSQKkkak3gk%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"47-TCP4YIZX49LBAdFyeMLQ1FWuNMQ"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=921770067ad17170-ATH
+server-timing=cfL4;desc="?proto=TCP&rtt=73815&min_rtt=41244&rtt_var=42615&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=769&delivery_rate=94531&cwnd=252&unsent_bytes=0&cid=f514daa28a037b36&ts=274&x=0"
+2025-03-16 23:45:27 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-16 23:45:27 INFO  utilities.RestHandler - Request body: models.User@2a0963be
+2025-03-16 23:45:27 INFO  utilities.RestHandler - Response status code: 201
+2025-03-16 23:45:27 INFO  utilities.RestHandler - Response body: {"name":null,"job":null,"id":"214","createdAt":"2025-03-16T21:45:27.491Z"}
+2025-03-16 23:45:27 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:27 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=74
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742161527&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=1kM22Ck0JL0YNeyVoFOPR%2BCCr%2B%2BRtaoxrqBw5WI3T%2Fk%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742161527&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=1kM22Ck0JL0YNeyVoFOPR%2BCCr%2B%2BRtaoxrqBw5WI3T%2Fk%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"4a-a3psykXsVJuVeMv708Mk34nkbFc"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=9217700a2c5250e8-IST
+server-timing=cfL4;desc="?proto=TCP&rtt=83482&min_rtt=73110&rtt_var=26362&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=772&delivery_rate=53336&cwnd=252&unsent_bytes=0&cid=387ff48b65766e29&ts=282&x=0"
+2025-03-16 23:45:27 INFO  utilities.RestHandler - Sending PUT request to URL: https://reqres.in/api/users/45345
+2025-03-16 23:45:27 INFO  utilities.RestHandler - Request body: models.User@1c00d406
+2025-03-16 23:45:28 INFO  utilities.RestHandler - Response status code: 200
+2025-03-16 23:45:28 INFO  utilities.RestHandler - Response body: {"name":"Ghost User","job":"Ghost Job","updatedAt":"2025-03-16T21:45:28.032Z"}
+2025-03-16 23:45:28 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:28 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742161528&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=T8f7Lleu7xMQqzCI%2F6iX1hwaKxBxpAwVncVYfkTUwKQ%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742161528&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=T8f7Lleu7xMQqzCI%2F6iX1hwaKxBxpAwVncVYfkTUwKQ%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"4e-FbTMa1AWEKsoRtJkRmvCoWKAr9A"
+Via=1.1 vegur
+CF-Cache-Status=DYNAMIC
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=9217700d898868aa-IST
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=80017&min_rtt=62434&rtt_var=31720&sent=6&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=792&delivery_rate=62455&cwnd=252&unsent_bytes=0&cid=bb4712c42c9829cf&ts=286&x=0"
+2025-03-16 23:45:28 INFO  utilities.RestHandler - Sending DELETE request to URL: https://reqres.in/api/users/42342
+2025-03-16 23:45:28 INFO  utilities.RestHandler - Response status code: 204
+2025-03-16 23:45:28 INFO  utilities.RestHandler - Response body:
+2025-03-16 23:45:28 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:28 GMT
+Content-Length=0
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742161528&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=T8f7Lleu7xMQqzCI%2F6iX1hwaKxBxpAwVncVYfkTUwKQ%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742161528&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=T8f7Lleu7xMQqzCI%2F6iX1hwaKxBxpAwVncVYfkTUwKQ%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=921770110810eeec-ATH
+server-timing=cfL4;desc="?proto=TCP&rtt=65068&min_rtt=39476&rtt_var=35329&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=704&delivery_rate=98761&cwnd=252&unsent_bytes=0&cid=4b8b5a2aef013950&ts=310&x=0"
+2025-03-16 23:45:28 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-16 23:45:29 INFO  utilities.RestHandler - Response status code: 200
+2025-03-16 23:45:29 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-16 23:45:29 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:29 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Content-Encoding=gzip
+Cf-Ray=92177014db82c0c5-IST
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+Cf-Cache-Status=HIT
+Age=5140
+Vary=Accept-Encoding
+Server=cloudflare
+server-timing=cfL4;desc="?proto=TCP&rtt=80491&min_rtt=64050&rtt_var=30855&sent=6&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=60874&cwnd=252&unsent_bytes=0&cid=2e4f2cd9db7721ff&ts=176&x=0"
+2025-03-16 23:45:29 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-16 23:45:29 INFO  utilities.RestHandler - Response status code: 200
+2025-03-16 23:45:29 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-16 23:45:29 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:29 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=5140
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92177016fb2c6960-IST
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=79531&min_rtt=62098&rtt_var=31491&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=62792&cwnd=252&unsent_bytes=0&cid=2b501b9e78fa3994&ts=116&x=0"
+2025-03-16 23:45:29 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-16 23:45:29 INFO  utilities.RestHandler - Response status code: 200
+2025-03-16 23:45:29 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-16 23:45:29 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:29 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=5140
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=921770197eba50f3-IST
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=80955&min_rtt=62556&rtt_var=32604&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3110&recv_bytes=702&delivery_rate=62327&cwnd=252&unsent_bytes=0&cid=7cd0d321214621e5&ts=161&x=0"
+2025-03-16 23:45:29 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-16 23:45:30 INFO  utilities.RestHandler - Response status code: 200
+2025-03-16 23:45:30 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-16 23:45:30 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:30 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=5141
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=9217701c1c5468aa-IST
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=87820&min_rtt=61766&rtt_var=40522&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=63134&cwnd=252&unsent_bytes=0&cid=c5160b31051276f4&ts=172&x=0"
+2025-03-16 23:45:30 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-16 23:45:30 INFO  utilities.RestHandler - Response status code: 200
+2025-03-16 23:45:30 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-16 23:45:30 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:30 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=5141
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=9217701e9c6b50ab-IST
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=94880&min_rtt=69489&rtt_var=40439&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3110&recv_bytes=702&delivery_rate=54893&cwnd=252&unsent_bytes=0&cid=68807fb38f8950fd&ts=115&x=0"
+2025-03-16 23:45:30 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-16 23:45:31 INFO  utilities.RestHandler - Response status code: 200
+2025-03-16 23:45:31 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-16 23:45:31 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:31 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=REVALIDATED
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=921770212fcc7176-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=88345&min_rtt=45205&rtt_var=53675&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=702&delivery_rate=86250&cwnd=252&unsent_bytes=0&cid=3d7d6361a8fdc867&ts=335&x=0"
+2025-03-16 23:45:31 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-16 23:45:31 INFO  utilities.RestHandler - Response status code: 200
+2025-03-16 23:45:31 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-16 23:45:31 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:31 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=5142
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=921770248bfe5075-IST
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=89368&min_rtt=62346&rtt_var=41656&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=702&delivery_rate=62530&cwnd=252&unsent_bytes=0&cid=9fb3a142fd6817d1&ts=140&x=0"
+2025-03-16 23:45:31 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-16 23:45:32 INFO  utilities.RestHandler - Response status code: 200
+2025-03-16 23:45:32 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-16 23:45:32 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:31 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=5142
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92177026cf4336e2-IST
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=91994&min_rtt=63675&rtt_var=43302&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3110&recv_bytes=702&delivery_rate=61209&cwnd=252&unsent_bytes=0&cid=bcca65bb1f789a15&ts=139&x=0"
+2025-03-16 23:45:32 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-16 23:45:32 INFO  utilities.RestHandler - Response status code: 200
+2025-03-16 23:45:32 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-16 23:45:32 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:32 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=5143
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92177028fbac2d5e-IST
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=78767&min_rtt=61664&rtt_var=31052&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=63233&cwnd=252&unsent_bytes=0&cid=27c7c87fab2879df&ts=143&x=0"
+2025-03-16 23:45:32 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-16 23:45:32 INFO  utilities.RestHandler - Response status code: 200
+2025-03-16 23:45:32 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-16 23:45:32 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 21:45:32 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1741879784&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=kpgSI9MRZUaXHbE%2BGMf0pEj7R40ckSQv%2Bh7h3Jtla68%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=5143
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=9217702b4b5ac367-IST
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=84422&min_rtt=61520&rtt_var=37030&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=702&delivery_rate=63083&cwnd=252&unsent_bytes=0&cid=0df32327f712b491&ts=136&x=0"
+2025-03-17 01:21:24 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-17 01:21:24 INFO  utilities.RestHandler - Request body: models.User@4b4dd216
+2025-03-17 01:21:25 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-17 01:21:25 INFO  utilities.RestHandler - Request body: models.User@3f725306
+2025-03-17 01:21:25 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-17 01:21:25 INFO  utilities.RestHandler - Request body: models.User@6dbcf214
+2025-03-17 01:21:25 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=0
+2025-03-17 01:21:25 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:21:25 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=2
+2025-03-17 01:21:25 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=3
+2025-03-17 01:21:25 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=4
+2025-03-17 01:21:25 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-17 01:21:25 INFO  utilities.RestHandler - Request body: models.User@3bddc676
+2025-03-17 01:21:25 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-17 01:21:25 INFO  utilities.RestHandler - Request body: models.User@3fe46690
+2025-03-17 01:21:25 INFO  utilities.RestHandler - Sending PUT request to URL: https://reqres.in/api/users/45345
+2025-03-17 01:21:25 INFO  utilities.RestHandler - Request body: models.User@5b22d8a1
+2025-03-17 01:21:25 INFO  utilities.RestHandler - Sending DELETE request to URL: https://reqres.in/api/users/42342
+2025-03-17 01:21:25 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:31:34 INFO  api.AuthenticationHandler - Login successful. Token: QpwL5tke4Pnpja7X4
+2025-03-17 01:31:34 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-17 01:31:34 INFO  utilities.RestHandler - Request body: models.User@482ba4b1
+2025-03-17 01:31:35 INFO  utilities.RestHandler - Response status code: 201
+2025-03-17 01:31:35 INFO  utilities.RestHandler - Response body: {"name":null,"job":null,"id":"706","createdAt":"2025-03-16T23:31:35.279Z"}
+2025-03-17 01:31:35 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:35 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=74
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742167895&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=24nrE%2FD%2BSDteo%2Bfnsi%2BDUKuiX40XTDm9ipzKZ0E5KtU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742167895&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=24nrE%2FD%2BSDteo%2Bfnsi%2BDUKuiX40XTDm9ipzKZ0E5KtU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"4a-6kuNnVva1NsGwUk91rEJLAiQHbY"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=92180b809fc2eed0-ATH
+server-timing=cfL4;desc="?proto=TCP&rtt=59775&min_rtt=38888&rtt_var=29708&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=772&delivery_rate=97857&cwnd=252&unsent_bytes=0&cid=fe47a46aeaffa97d&ts=291&x=0"
+2025-03-17 01:31:35 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-17 01:31:35 INFO  utilities.RestHandler - Request body: models.User@5940b14e
+2025-03-17 01:31:35 INFO  utilities.RestHandler - Response status code: 201
+2025-03-17 01:31:35 INFO  utilities.RestHandler - Response body: {"name":"Angelina Jolie","job":"Actor","id":"917","createdAt":"2025-03-16T23:31:35.851Z"}
+2025-03-17 01:31:35 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:35 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=89
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742167895&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=24nrE%2FD%2BSDteo%2Bfnsi%2BDUKuiX40XTDm9ipzKZ0E5KtU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742167895&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=24nrE%2FD%2BSDteo%2Bfnsi%2BDUKuiX40XTDm9ipzKZ0E5KtU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"59-i9+qGTTTwdIWoieLVKGjbdaaWJU"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=92180b844b3aeeb8-ATH
+server-timing=cfL4;desc="?proto=TCP&rtt=65315&min_rtt=40112&rtt_var=35055&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=787&delivery_rate=97203&cwnd=252&unsent_bytes=0&cid=3fe58f0d7d03a69a&ts=275&x=0"
+2025-03-17 01:31:36 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-17 01:31:36 INFO  utilities.RestHandler - Request body: models.User@474e34e4
+2025-03-17 01:31:36 INFO  utilities.RestHandler - Response status code: 201
+2025-03-17 01:31:36 INFO  utilities.RestHandler - Response body: {"name":"Scarlett Johnson","job":"Model","id":"245","createdAt":"2025-03-16T23:31:36.407Z"}
+2025-03-17 01:31:36 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:36 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=91
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742167896&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=iFyx4VaU27FmrrGlRvwTkCLkVqyGIy2qwMaEL%2FLxMps%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742167896&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=iFyx4VaU27FmrrGlRvwTkCLkVqyGIy2qwMaEL%2FLxMps%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"5b-wV45M7joR/FX1OAy7ZnzsB8ZeKk"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=92180b87c9d36f6d-ATH
+server-timing=cfL4;desc="?proto=TCP&rtt=55033&min_rtt=38923&rtt_var=25149&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=789&delivery_rate=99777&cwnd=252&unsent_bytes=0&cid=04b0532e9dd32d96&ts=275&x=0"
+2025-03-17 01:31:36 INFO  utilities.RestHandler - Sending PUT request to URL: https://reqres.in/api/users/245
+2025-03-17 01:31:36 INFO  utilities.RestHandler - Request body: models.User@56da96b3
+2025-03-17 01:31:36 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:31:36 INFO  utilities.RestHandler - Response body: {"name":null,"job":null,"updatedAt":"2025-03-16T23:31:36.887Z"}
+2025-03-17 01:31:36 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:36 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742167896&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=iFyx4VaU27FmrrGlRvwTkCLkVqyGIy2qwMaEL%2FLxMps%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742167896&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=iFyx4VaU27FmrrGlRvwTkCLkVqyGIy2qwMaEL%2FLxMps%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"3f-qHeccQkHuo5L78xlhYdczdmPJn0"
+Via=1.1 vegur
+CF-Cache-Status=DYNAMIC
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92180b8ac85d6f3b-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=65278&min_rtt=39482&rtt_var=35547&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3110&recv_bytes=775&delivery_rate=98751&cwnd=252&unsent_bytes=0&cid=5a747b6b119e38b1&ts=227&x=0"
+2025-03-17 01:31:37 INFO  utilities.RestHandler - Sending PUT request to URL: https://reqres.in/api/users/245
+2025-03-17 01:31:37 INFO  utilities.RestHandler - Request body: models.User@16ac4d3d
+2025-03-17 01:31:37 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:31:37 INFO  utilities.RestHandler - Response body: {"name":"Angelina Fakhry","job":"Doctor","updatedAt":"2025-03-16T23:31:37.427Z"}
+2025-03-17 01:31:37 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:37 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742167897&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=NTgbaOEhQGjn%2FSYyun4zZbTOBJzM79b9JluM2KFzwVo%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742167897&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=NTgbaOEhQGjn%2FSYyun4zZbTOBJzM79b9JluM2KFzwVo%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"50-bBrCIXoGBkaULUkrVigXHEu/xGI"
+Via=1.1 vegur
+CF-Cache-Status=DYNAMIC
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92180b8e1b0b6f4d-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=63879&min_rtt=38222&rtt_var=35131&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3110&recv_bytes=792&delivery_rate=102008&cwnd=252&unsent_bytes=0&cid=4e94230b9671f900&ts=262&x=0"
+2025-03-17 01:31:37 INFO  utilities.RestHandler - Sending PUT request to URL: https://reqres.in/api/users/245
+2025-03-17 01:31:37 INFO  utilities.RestHandler - Request body: models.User@7e27f603
+2025-03-17 01:31:38 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:31:38 INFO  utilities.RestHandler - Response body: {"name":"Scarlett Sayed","job":"Fashion Designer","updatedAt":"2025-03-16T23:31:37.944Z"}
+2025-03-17 01:31:38 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:37 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742167897&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=NTgbaOEhQGjn%2FSYyun4zZbTOBJzM79b9JluM2KFzwVo%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742167897&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=NTgbaOEhQGjn%2FSYyun4zZbTOBJzM79b9JluM2KFzwVo%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"59-IGzNzmv5s38hnf9YkEK6ZkvhTDQ"
+Via=1.1 vegur
+CF-Cache-Status=DYNAMIC
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92180b916fc0ee7b-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=59060&min_rtt=39433&rtt_var=29028&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=801&delivery_rate=98879&cwnd=251&unsent_bytes=0&cid=c3ff02b0ae19524e&ts=252&x=0"
+2025-03-17 01:31:38 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=0
+2025-03-17 01:31:38 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:31:38 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:31:38 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:38 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742139576&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=mfZjgo6X71bvyD1N%2Ftlz%2FFKypFu4llZlK9syE8DX5dc%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742139576&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=mfZjgo6X71bvyD1N%2Ftlz%2FFKypFu4llZlK9syE8DX5dc%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=REVALIDATED
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92180b94894c6f31-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=59786&min_rtt=39705&rtt_var=29561&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=98189&cwnd=252&unsent_bytes=0&cid=a15a2e1d62639061&ts=263&x=0"
+2025-03-17 01:31:38 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:31:38 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:31:38 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:31:38 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:38 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6367
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92180b97daabeea8-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=57186&min_rtt=41598&rtt_var=25202&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=702&delivery_rate=93668&cwnd=252&unsent_bytes=0&cid=bc2fc2421060f952&ts=106&x=0"
+2025-03-17 01:31:38 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=2
+2025-03-17 01:31:39 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:31:39 INFO  utilities.RestHandler - Response body: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:31:39 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:39 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742112451&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Mu0uNi71WeNHUv5hXsIZpBXUSvJVhVGj3wLTkMpSGu8%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742112451&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Mu0uNi71WeNHUv5hXsIZpBXUSvJVhVGj3wLTkMpSGu8%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"440-ZjsmMKR8P3usr2uJZbOCGCxC3Uw"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6194
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92180b999d70717c-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=58213&min_rtt=38525&rtt_var=28897&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=101196&cwnd=252&unsent_bytes=0&cid=b05913c0f3fe0bda&ts=91&x=0"
+2025-03-17 01:31:39 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=3
+2025-03-17 01:31:39 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:31:39 INFO  utilities.RestHandler - Response body: {"page":3,"per_page":6,"total":12,"total_pages":2,"data":[],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:31:39 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:39 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742125768&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=eccKTlRPE2XrD1SrKgM3HhO3%2FzVZUYUA1PbfPC%2Byw4c%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742125768&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=eccKTlRPE2XrD1SrKgM3HhO3%2FzVZUYUA1PbfPC%2Byw4c%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"ff-aGm564oP8PdTTBt7Rr/9A79zt7Q"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=REVALIDATED
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92180b9bbf0c38d7-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=59819&min_rtt=40222&rtt_var=29161&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=702&delivery_rate=96935&cwnd=252&unsent_bytes=0&cid=f49577dc167bb5a0&ts=269&x=0"
+2025-03-17 01:31:39 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=4
+2025-03-17 01:31:40 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:31:40 INFO  utilities.RestHandler - Response body: {"page":4,"per_page":6,"total":12,"total_pages":2,"data":[],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:31:40 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:39 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742125919&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=N0YR9jrv41%2Fk3sihcgrd%2FNpQ7WTzkMhnekfdkdCSRgc%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742125919&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=N0YR9jrv41%2Fk3sihcgrd%2FNpQ7WTzkMhnekfdkdCSRgc%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"ff-ezWGDSC82Dk7QMM+atjOLS8jbHA"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6374
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92180b9eda3238c9-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=59954&min_rtt=38901&rtt_var=30413&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=100200&cwnd=252&unsent_bytes=0&cid=be0db6119b202631&ts=108&x=0"
+2025-03-17 01:31:40 INFO  utilities.RestHandler - Sending DELETE request to URL: https://reqres.in/api/users/245
+2025-03-17 01:31:40 INFO  utilities.RestHandler - Response status code: 204
+2025-03-17 01:31:40 INFO  utilities.RestHandler - Response body: 
+2025-03-17 01:31:40 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:40 GMT
+Content-Length=0
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742167900&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=2ToU10WoI6XN0RLm8dr4LaU%2BMlZ1K%2BI7KsLkyfaAchI%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742167900&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=2ToU10WoI6XN0RLm8dr4LaU%2BMlZ1K%2BI7KsLkyfaAchI%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=92180ba12b33717f-ATH
+server-timing=cfL4;desc="?proto=TCP&rtt=64858&min_rtt=39170&rtt_var=35368&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=702&delivery_rate=99540&cwnd=247&unsent_bytes=0&cid=8510ee9265de48f7&ts=261&x=0"
+2025-03-17 01:31:40 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-17 01:31:40 INFO  utilities.RestHandler - Request body: models.User@68b3248a
+2025-03-17 01:31:41 INFO  utilities.RestHandler - Response status code: 201
+2025-03-17 01:31:41 INFO  utilities.RestHandler - Response body: {"name":"","job":"-","id":"215","createdAt":"2025-03-16T23:31:40.918Z"}
+2025-03-17 01:31:41 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:40 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=71
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742167900&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=2ToU10WoI6XN0RLm8dr4LaU%2BMlZ1K%2BI7KsLkyfaAchI%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742167900&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=2ToU10WoI6XN0RLm8dr4LaU%2BMlZ1K%2BI7KsLkyfaAchI%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"47-zstZpCXaOmOQW46rELKaFeFrW58"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=92180ba3fbcf6f4d-ATH
+server-timing=cfL4;desc="?proto=TCP&rtt=65914&min_rtt=39330&rtt_var=36326&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=769&delivery_rate=99138&cwnd=252&unsent_bytes=0&cid=145175258e37c996&ts=266&x=0"
+2025-03-17 01:31:41 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-17 01:31:41 INFO  utilities.RestHandler - Request body: models.User@323e026d
+2025-03-17 01:31:41 INFO  utilities.RestHandler - Response status code: 201
+2025-03-17 01:31:41 INFO  utilities.RestHandler - Response body: {"name":null,"job":null,"id":"334","createdAt":"2025-03-16T23:31:41.350Z"}
+2025-03-17 01:31:41 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:41 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=74
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742167901&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=VXs43Go292jmp28WnKPDwdA3fKdpbrRABOMGXFa4OCA%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742167901&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=VXs43Go292jmp28WnKPDwdA3fKdpbrRABOMGXFa4OCA%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"4a-+Ufaxb16t6SRi01BGi0/0idY2Tg"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=92180ba6bd057179-ATH
+server-timing=cfL4;desc="?proto=TCP&rtt=64069&min_rtt=39631&rtt_var=34145&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=772&delivery_rate=98380&cwnd=252&unsent_bytes=0&cid=78129ce4d5e0f619&ts=257&x=0"
+2025-03-17 01:31:41 INFO  utilities.RestHandler - Sending PUT request to URL: https://reqres.in/api/users/45345
+2025-03-17 01:31:41 INFO  utilities.RestHandler - Request body: models.User@1fc1c7e
+2025-03-17 01:31:41 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:31:41 INFO  utilities.RestHandler - Response body: {"name":"Ghost User","job":"Ghost Job","updatedAt":"2025-03-16T23:31:41.854Z"}
+2025-03-17 01:31:41 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:41 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Content-Encoding=gzip
+Cf-Ray=92180ba9cc49ef00-ATH
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742167901&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=VXs43Go292jmp28WnKPDwdA3fKdpbrRABOMGXFa4OCA%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742167901&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=VXs43Go292jmp28WnKPDwdA3fKdpbrRABOMGXFa4OCA%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"4e-IZ9pYUzms2Cvc+6PYRleYxzxDdE"
+Via=1.1 vegur
+Cf-Cache-Status=DYNAMIC
+Vary=Accept-Encoding
+Server=cloudflare
+server-timing=cfL4;desc="?proto=TCP&rtt=72931&min_rtt=39652&rtt_var=42864&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=792&delivery_rate=98330&cwnd=252&unsent_bytes=0&cid=beeeb17a996e6468&ts=244&x=0"
+2025-03-17 01:31:41 INFO  utilities.RestHandler - Sending DELETE request to URL: https://reqres.in/api/users/42342
+2025-03-17 01:31:42 INFO  utilities.RestHandler - Response status code: 204
+2025-03-17 01:31:42 INFO  utilities.RestHandler - Response body: 
+2025-03-17 01:31:42 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:42 GMT
+Content-Length=0
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742167902&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=jSWBXAPVwSXq0ATU4CczqIuJsijwFKr6uQOrZ5SHqbE%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742167902&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=jSWBXAPVwSXq0ATU4CczqIuJsijwFKr6uQOrZ5SHqbE%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=92180bacfe597184-ATH
+server-timing=cfL4;desc="?proto=TCP&rtt=64732&min_rtt=38577&rtt_var=35670&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=704&delivery_rate=100913&cwnd=252&unsent_bytes=0&cid=73c4f99b41a8ae83&ts=248&x=0"
+2025-03-17 01:31:42 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:31:42 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:31:42 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:31:42 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:42 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6371
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92180bb00ac6ee73-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=58850&min_rtt=40363&rtt_var=28021&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=702&delivery_rate=96601&cwnd=243&unsent_bytes=0&cid=52c214ab31cfc2a1&ts=122&x=0"
+2025-03-17 01:31:42 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:31:43 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:31:43 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:31:43 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:43 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6372
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92180bb219dd6f37-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=73453&min_rtt=39129&rtt_var=43659&sent=6&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=99176&cwnd=252&unsent_bytes=0&cid=c77bdae04e003c40&ts=135&x=0"
+2025-03-17 01:31:43 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:31:43 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:31:43 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:31:43 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:43 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6372
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92180bb44b40717c-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=52353&min_rtt=40555&rtt_var=21000&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=96141&cwnd=252&unsent_bytes=0&cid=5cb30e911b8d2cbb&ts=115&x=0"
+2025-03-17 01:31:43 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:31:43 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:31:43 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:31:43 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:43 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6372
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92180bb60fbd38db-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=68795&min_rtt=42803&rtt_var=36453&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=91087&cwnd=252&unsent_bytes=0&cid=811f7fadbae19fb1&ts=113&x=0"
+2025-03-17 01:31:43 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:31:44 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:31:44 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:31:44 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:43 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6372
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92180bb7cb1f6f67-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=65461&min_rtt=39918&rtt_var=35371&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=97668&cwnd=252&unsent_bytes=0&cid=508c90e15201e727&ts=90&x=0"
+2025-03-17 01:31:44 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:31:44 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:31:44 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:31:44 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:44 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6373
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92180bb9afbdee7b-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=81655&min_rtt=39499&rtt_var=50805&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=98704&cwnd=251&unsent_bytes=0&cid=fb8ac16174aaf5e3&ts=104&x=0"
+2025-03-17 01:31:44 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:31:44 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:31:44 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:31:44 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:44 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6373
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92180bbb9e1a6f62-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=65156&min_rtt=39218&rtt_var=35642&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=702&delivery_rate=99418&cwnd=252&unsent_bytes=0&cid=8d8bf21ba45abb80&ts=97&x=0"
+2025-03-17 01:31:44 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:31:44 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:31:44 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:31:44 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:44 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6373
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92180bbd5a8a7170-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=65966&min_rtt=39800&rtt_var=36004&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3110&recv_bytes=702&delivery_rate=97957&cwnd=252&unsent_bytes=0&cid=cf07e53098524473&ts=97&x=0"
+2025-03-17 01:31:44 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:31:45 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:31:45 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:31:45 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:45 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6374
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92180bbf0993eeb8-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=56811&min_rtt=43756&rtt_var=22941&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=88921&cwnd=252&unsent_bytes=0&cid=e15a952df0fbc8ad&ts=108&x=0"
+2025-03-17 01:31:45 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:31:45 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:31:45 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:31:45 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:31:45 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6374
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92180bc0bbcf6f6e-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=60121&min_rtt=41455&rtt_var=28438&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3110&recv_bytes=702&delivery_rate=94050&cwnd=252&unsent_bytes=0&cid=ac56c1097213c08b&ts=109&x=0"
+2025-03-17 01:37:56 ERROR api.AuthenticationHandler - Login failed! Status Code: 404
+2025-03-17 01:38:59 INFO  api.AuthenticationHandler - Login successful. Token: QpwL5tke4Pnpja7X4
+2025-03-17 01:38:59 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-17 01:38:59 INFO  utilities.RestHandler - Request body: models.User@2a484710
+2025-03-17 01:39:00 INFO  utilities.RestHandler - Response status code: 201
+2025-03-17 01:39:00 INFO  utilities.RestHandler - Response body: {"name":null,"job":null,"id":"708","createdAt":"2025-03-16T23:38:59.988Z"}
+2025-03-17 01:39:00 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:00 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=74
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742168339&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=N0N7VJ3ta34PLD%2FinQmgSrywssrGVvyxZgjZ2T15NO4%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742168339&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=N0N7VJ3ta34PLD%2FinQmgSrywssrGVvyxZgjZ2T15NO4%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"4a-sL9r3vrSSEUJQn8vzqdn/blvbkE"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=9218165c2c506f74-ATH
+server-timing=cfL4;desc="?proto=TCP&rtt=58785&min_rtt=39558&rtt_var=28631&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3110&recv_bytes=772&delivery_rate=98564&cwnd=252&unsent_bytes=0&cid=23aa7da8b1c216e9&ts=255&x=0"
+2025-03-17 01:39:00 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-17 01:39:00 INFO  utilities.RestHandler - Request body: models.User@33627576
+2025-03-17 01:39:00 INFO  utilities.RestHandler - Response status code: 201
+2025-03-17 01:39:00 INFO  utilities.RestHandler - Response body: {"name":"Angelina Jolie","job":"Actor","id":"864","createdAt":"2025-03-16T23:39:00.478Z"}
+2025-03-17 01:39:00 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:00 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=89
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742168340&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=t3rAjJNskwX7y9Ybs50bj1iO4wjP7Rfkc%2FHzLaFklrM%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742168340&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=t3rAjJNskwX7y9Ybs50bj1iO4wjP7Rfkc%2FHzLaFklrM%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"59-+PD5xutXTWuXOEltk8dYKDD/XcU"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=9218165f3bf6eef4-ATH
+server-timing=cfL4;desc="?proto=TCP&rtt=53224&min_rtt=39129&rtt_var=23123&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3110&recv_bytes=787&delivery_rate=99639&cwnd=252&unsent_bytes=0&cid=aab1b4b33d423d70&ts=253&x=0"
+2025-03-17 01:39:00 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-17 01:39:00 INFO  utilities.RestHandler - Request body: models.User@7404ddca
+2025-03-17 01:39:01 INFO  utilities.RestHandler - Response status code: 201
+2025-03-17 01:39:01 INFO  utilities.RestHandler - Response body: {"name":"Scarlett Johnson","job":"Model","id":"596","createdAt":"2025-03-16T23:39:00.970Z"}
+2025-03-17 01:39:01 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:01 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=91
+Connection=keep-alive
+Cf-Ray=921816624a7eee9c-ATH
+Server=cloudflare
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742168340&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=t3rAjJNskwX7y9Ybs50bj1iO4wjP7Rfkc%2FHzLaFklrM%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742168340&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=t3rAjJNskwX7y9Ybs50bj1iO4wjP7Rfkc%2FHzLaFklrM%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"5b-BH6ZPtsxKUv53KseA7jjKRAs6dw"
+Via=1.1 vegur
+Cf-Cache-Status=DYNAMIC
+server-timing=cfL4;desc="?proto=TCP&rtt=57289&min_rtt=39681&rtt_var=26945&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=789&delivery_rate=98241&cwnd=252&unsent_bytes=0&cid=d77d4c810f0649d8&ts=262&x=0"
+2025-03-17 01:39:01 INFO  utilities.RestHandler - Sending PUT request to URL: https://reqres.in/api/users/596
+2025-03-17 01:39:01 INFO  utilities.RestHandler - Request body: models.User@1d283d1
+2025-03-17 01:39:01 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:39:01 INFO  utilities.RestHandler - Response body: {"name":null,"job":null,"updatedAt":"2025-03-16T23:39:01.536Z"}
+2025-03-17 01:39:01 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:01 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742168341&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=uzDpqt1Ek4SuTGhyQsGWf2Y8xn9gwCGkmic4IX1f2bE%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742168341&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=uzDpqt1Ek4SuTGhyQsGWf2Y8xn9gwCGkmic4IX1f2bE%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"3f-RTd2m7xhk1n96NhtJAUJahJGKHk"
+Via=1.1 vegur
+CF-Cache-Status=DYNAMIC
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92181665dca7eec4-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=53684&min_rtt=42356&rtt_var=20881&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=775&delivery_rate=92041&cwnd=252&unsent_bytes=0&cid=ac683b065eb40701&ts=265&x=0"
+2025-03-17 01:39:01 INFO  utilities.RestHandler - Sending PUT request to URL: https://reqres.in/api/users/596
+2025-03-17 01:39:01 INFO  utilities.RestHandler - Request body: models.User@40faff12
+2025-03-17 01:39:02 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:39:02 INFO  utilities.RestHandler - Response body: {"name":"Angelina Fakhry","job":"Doctor","updatedAt":"2025-03-16T23:39:02.063Z"}
+2025-03-17 01:39:02 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:02 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742168342&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=%2F7kVBlSUj7v6g%2BqSRRt9DmP2hvo8WOJwRVajoBX2QYo%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742168342&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=%2F7kVBlSUj7v6g%2BqSRRt9DmP2hvo8WOJwRVajoBX2QYo%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"50-LjYavXkqKmH/b4cPYAnLfwDaVQU"
+Via=1.1 vegur
+CF-Cache-Status=DYNAMIC
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=921816692b386f74-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=62364&min_rtt=39520&rtt_var=32440&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3110&recv_bytes=792&delivery_rate=98656&cwnd=252&unsent_bytes=0&cid=face3623b84271fb&ts=270&x=0"
+2025-03-17 01:39:02 INFO  utilities.RestHandler - Sending PUT request to URL: https://reqres.in/api/users/596
+2025-03-17 01:39:02 INFO  utilities.RestHandler - Request body: models.User@6658f08a
+2025-03-17 01:39:02 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:39:02 INFO  utilities.RestHandler - Response body: {"name":"Scarlett Sayed","job":"Fashion Designer","updatedAt":"2025-03-16T23:39:02.627Z"}
+2025-03-17 01:39:02 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:02 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742168342&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=%2F7kVBlSUj7v6g%2BqSRRt9DmP2hvo8WOJwRVajoBX2QYo%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742168342&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=%2F7kVBlSUj7v6g%2BqSRRt9DmP2hvo8WOJwRVajoBX2QYo%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"59-Gej+y2YexNhrbCmYdFQ4PmMF7DE"
+Via=1.1 vegur
+CF-Cache-Status=DYNAMIC
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=9218166cad446f56-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=59027&min_rtt=38869&rtt_var=29467&sent=6&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=801&delivery_rate=100306&cwnd=252&unsent_bytes=0&cid=7fba3525f9af1f85&ts=278&x=0"
+2025-03-17 01:39:02 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=0
+2025-03-17 01:39:03 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:39:03 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:39:03 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:03 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742139576&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=mfZjgo6X71bvyD1N%2Ftlz%2FFKypFu4llZlK9syE8DX5dc%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742139576&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=mfZjgo6X71bvyD1N%2Ftlz%2FFKypFu4llZlK9syE8DX5dc%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=445
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=9218166fce35eeac-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=60554&min_rtt=40298&rtt_var=29873&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=702&delivery_rate=96757&cwnd=241&unsent_bytes=0&cid=555f3cde1794b432&ts=113&x=0"
+2025-03-17 01:39:03 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:39:03 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:39:03 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:39:03 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:03 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Content-Encoding=gzip
+Cf-Ray=921816720814717c-ATH
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+Cf-Cache-Status=HIT
+Age=6812
+Vary=Accept-Encoding
+Server=cloudflare
+server-timing=cfL4;desc="?proto=TCP&rtt=59246&min_rtt=38991&rtt_var=28931&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3110&recv_bytes=702&delivery_rate=95724&cwnd=252&unsent_bytes=0&cid=93dfd5e855af94e1&ts=112&x=0"
+2025-03-17 01:39:03 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=2
+2025-03-17 01:39:03 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:39:03 INFO  utilities.RestHandler - Response body: {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:39:03 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:03 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742112451&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Mu0uNi71WeNHUv5hXsIZpBXUSvJVhVGj3wLTkMpSGu8%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742112451&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Mu0uNi71WeNHUv5hXsIZpBXUSvJVhVGj3wLTkMpSGu8%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"440-ZjsmMKR8P3usr2uJZbOCGCxC3Uw"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6638
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=921816742bec38d7-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=57900&min_rtt=39058&rtt_var=27876&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=98231&cwnd=252&unsent_bytes=0&cid=1f4288d62605d67b&ts=119&x=0"
+2025-03-17 01:39:03 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=3
+2025-03-17 01:39:04 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:39:04 INFO  utilities.RestHandler - Response body: {"page":3,"per_page":6,"total":12,"total_pages":2,"data":[],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:39:04 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:04 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742125768&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=eccKTlRPE2XrD1SrKgM3HhO3%2FzVZUYUA1PbfPC%2Byw4c%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742125768&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=eccKTlRPE2XrD1SrKgM3HhO3%2FzVZUYUA1PbfPC%2Byw4c%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"ff-aGm564oP8PdTTBt7Rr/9A79zt7Q"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=445
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=921816767f00ee8f-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=52533&min_rtt=42199&rtt_var=19802&sent=6&recv=8&lost=0&retrans=0&sent_bytes=3110&recv_bytes=702&delivery_rate=92395&cwnd=252&unsent_bytes=0&cid=f8cf15f47b462d9a&ts=138&x=0"
+2025-03-17 01:39:04 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=4
+2025-03-17 01:39:04 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:39:04 INFO  utilities.RestHandler - Response body: {"page":4,"per_page":6,"total":12,"total_pages":2,"data":[],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:39:04 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:04 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742125919&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=N0YR9jrv41%2Fk3sihcgrd%2FNpQ7WTzkMhnekfdkdCSRgc%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742125919&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=N0YR9jrv41%2Fk3sihcgrd%2FNpQ7WTzkMhnekfdkdCSRgc%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"ff-ezWGDSC82Dk7QMM+atjOLS8jbHA"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6819
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=921816785dc938d7-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=65522&min_rtt=38474&rtt_var=36538&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=101332&cwnd=252&unsent_bytes=0&cid=a0a4530c6b19ce37&ts=82&x=0"
+2025-03-17 01:39:04 INFO  utilities.RestHandler - Sending DELETE request to URL: https://reqres.in/api/users/596
+2025-03-17 01:39:04 INFO  utilities.RestHandler - Response status code: 204
+2025-03-17 01:39:04 INFO  utilities.RestHandler - Response body: 
+2025-03-17 01:39:04 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:04 GMT
+Content-Length=0
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742168344&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=hHfElK7KNMtzjLDiios%2F1Lltpf%2Fgb%2FnviYh9lI7M59U%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742168344&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=hHfElK7KNMtzjLDiios%2F1Lltpf%2Fgb%2FnviYh9lI7M59U%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=92181679fa32ee6b-ATH
+server-timing=cfL4;desc="?proto=TCP&rtt=52354&min_rtt=39085&rtt_var=22242&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=99751&cwnd=241&unsent_bytes=0&cid=4d868587e64a3a4c&ts=232&x=0"
+2025-03-17 01:39:04 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-17 01:39:04 INFO  utilities.RestHandler - Request body: models.User@1edf71d9
+2025-03-17 01:39:05 INFO  utilities.RestHandler - Response status code: 201
+2025-03-17 01:39:05 INFO  utilities.RestHandler - Response body: {"name":"","job":"-","id":"683","createdAt":"2025-03-16T23:39:05.218Z"}
+2025-03-17 01:39:05 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:05 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=71
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742168345&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=lUb4%2FRzfCMK%2BwFueEUECo6fpU%2Fp2vx2bOvzuohsEWLk%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742168345&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=lUb4%2FRzfCMK%2BwFueEUECo6fpU%2Fp2vx2bOvzuohsEWLk%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"47-/vkxgn5aizWQLUJNbMaSr8NYhuY"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=9218167cd802ef00-ATH
+server-timing=cfL4;desc="?proto=TCP&rtt=54327&min_rtt=38646&rtt_var=24612&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=769&delivery_rate=100551&cwnd=252&unsent_bytes=0&cid=09adb5e92b999c4b&ts=245&x=0"
+2025-03-17 01:39:05 INFO  utilities.RestHandler - Sending POST request to URL: https://reqres.in/api/users
+2025-03-17 01:39:05 INFO  utilities.RestHandler - Request body: models.User@7ea07516
+2025-03-17 01:39:05 INFO  utilities.RestHandler - Response status code: 201
+2025-03-17 01:39:05 INFO  utilities.RestHandler - Response body: {"name":null,"job":null,"id":"164","createdAt":"2025-03-16T23:39:05.647Z"}
+2025-03-17 01:39:05 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:05 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=74
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742168345&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=lUb4%2FRzfCMK%2BwFueEUECo6fpU%2Fp2vx2bOvzuohsEWLk%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742168345&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=lUb4%2FRzfCMK%2BwFueEUECo6fpU%2Fp2vx2bOvzuohsEWLk%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"4a-Bu5eYmCbOu9egdAANF5OfRYWPfA"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=9218167f89daef00-ATH
+server-timing=cfL4;desc="?proto=TCP&rtt=56043&min_rtt=38979&rtt_var=25907&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=772&delivery_rate=97930&cwnd=252&unsent_bytes=0&cid=9d2b67981d57d155&ts=228&x=0"
+2025-03-17 01:39:05 INFO  utilities.RestHandler - Sending PUT request to URL: https://reqres.in/api/users/45345
+2025-03-17 01:39:05 INFO  utilities.RestHandler - Request body: models.User@70f85235
+2025-03-17 01:39:06 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:39:06 INFO  utilities.RestHandler - Response body: {"name":"Ghost User","job":"Ghost Job","updatedAt":"2025-03-16T23:39:06.112Z"}
+2025-03-17 01:39:06 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:06 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742168346&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=2No4vpYf62b%2BDHfDxiiWN4%2F9UjsLdot8pif8tcDq1pQ%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742168346&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=2No4vpYf62b%2BDHfDxiiWN4%2F9UjsLdot8pif8tcDq1pQ%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"4e-884KXipKSInloOyhzl0cpjJuggU"
+Via=1.1 vegur
+CF-Cache-Status=DYNAMIC
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=921816826fd86f6e-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=53065&min_rtt=38609&rtt_var=23387&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=792&delivery_rate=100936&cwnd=252&unsent_bytes=0&cid=70148c453da1eb9d&ts=264&x=0"
+2025-03-17 01:39:06 INFO  utilities.RestHandler - Sending DELETE request to URL: https://reqres.in/api/users/42342
+2025-03-17 01:39:06 INFO  utilities.RestHandler - Response status code: 204
+2025-03-17 01:39:06 INFO  utilities.RestHandler - Response body: 
+2025-03-17 01:39:06 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:06 GMT
+Content-Length=0
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742168346&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=2No4vpYf62b%2BDHfDxiiWN4%2F9UjsLdot8pif8tcDq1pQ%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742168346&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=2No4vpYf62b%2BDHfDxiiWN4%2F9UjsLdot8pif8tcDq1pQ%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+Via=1.1 vegur
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=921816856f9beed0-ATH
+server-timing=cfL4;desc="?proto=TCP&rtt=57951&min_rtt=39930&rtt_var=27436&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=704&delivery_rate=97644&cwnd=252&unsent_bytes=0&cid=196741b5701ba370&ts=258&x=0"
+2025-03-17 01:39:06 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:39:07 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:39:07 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:39:07 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:06 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6815
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92181688697e7176-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=64010&min_rtt=40033&rtt_var=33744&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=702&delivery_rate=97392&cwnd=252&unsent_bytes=0&cid=51d2fa046f6cc3fb&ts=106&x=0"
+2025-03-17 01:39:07 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:39:07 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:39:07 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:39:07 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:07 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6816
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=9218168a4e9ceee0-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=53586&min_rtt=40101&rtt_var=22683&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=97220&cwnd=252&unsent_bytes=0&cid=4bc7c9c8e30bf48d&ts=108&x=0"
+2025-03-17 01:39:07 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:39:07 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:39:07 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:39:07 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:07 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6816
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=9218168c4c49eed8-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=59371&min_rtt=39507&rtt_var=29292&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=702&delivery_rate=98689&cwnd=237&unsent_bytes=0&cid=0f967a69511f5ca7&ts=132&x=0"
+2025-03-17 01:39:07 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:39:07 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:39:07 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:39:07 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:07 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6816
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=9218168e68dc6f4f-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=73691&min_rtt=42054&rtt_var=41924&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=92638&cwnd=252&unsent_bytes=0&cid=d12d07267d0c7f39&ts=112&x=0"
+2025-03-17 01:39:07 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:39:08 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:39:08 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:39:08 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:08 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6817
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=921816904a906f43-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=61688&min_rtt=39332&rtt_var=31885&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=99128&cwnd=252&unsent_bytes=0&cid=77bb48d852d435ff&ts=96&x=0"
+2025-03-17 01:39:08 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:39:08 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:39:08 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:39:08 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:08 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6817
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=921816922a49eee8-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=49400&min_rtt=39256&rtt_var=18980&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3110&recv_bytes=702&delivery_rate=99320&cwnd=252&unsent_bytes=0&cid=685a0339b34425e8&ts=115&x=0"
+2025-03-17 01:39:08 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:39:08 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:39:08 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:39:08 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:08 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6817
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92181693b846ee8b-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=53967&min_rtt=39003&rtt_var=24012&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3108&recv_bytes=702&delivery_rate=99956&cwnd=252&unsent_bytes=0&cid=3f2c023b5795bfc4&ts=89&x=0"
+2025-03-17 01:39:08 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:39:09 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:39:09 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:39:09 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:09 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6818
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=92181695894138dc-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=54898&min_rtt=38937&rtt_var=25053&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=100138&cwnd=252&unsent_bytes=0&cid=2308d04c6bbe1e54&ts=101&x=0"
+2025-03-17 01:39:09 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:39:09 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:39:09 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:39:09 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:09 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6818
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=9218169758bfee7f-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=51400&min_rtt=39076&rtt_var=21240&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3110&recv_bytes=702&delivery_rate=99754&cwnd=252&unsent_bytes=0&cid=81d31fdbb37732a2&ts=98&x=0"
+2025-03-17 01:39:09 INFO  utilities.RestHandler - Sending GET request to URL: https://reqres.in/api/users?page=1
+2025-03-17 01:39:09 INFO  utilities.RestHandler - Response status code: 200
+2025-03-17 01:39:09 INFO  utilities.RestHandler - Response body: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral","text":"Tired of writing endless social media content? Let Content Caddy generate it for you."}}
+2025-03-17 01:39:09 INFO  utilities.RestHandler - Response headers: Date=Sun, 16 Mar 2025 23:39:09 GMT
+Content-Type=application/json; charset=utf-8
+Transfer-Encoding=chunked
+Connection=keep-alive
+Report-To={"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D"}]}
+Reporting-Endpoints=heroku-nel=https://nel.heroku.com/reports?ts=1742002503&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8iTr%2Bo6yCoiX0Mo6t45gFRBThbQquh9VGQftQ8jmOfU%3D
+Nel={"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Etag=W/"41e-bY3U72nulxuwNd/TmihMEHjLmek"
+Via=1.1 vegur
+Cache-Control=max-age=14400
+CF-Cache-Status=HIT
+Age=6818
+Vary=Accept-Encoding
+Server=cloudflare
+CF-RAY=921816992b436f32-ATH
+Content-Encoding=gzip
+server-timing=cfL4;desc="?proto=TCP&rtt=65094&min_rtt=39114&rtt_var=35645&sent=5&recv=8&lost=0&retrans=0&sent_bytes=3109&recv_bytes=702&delivery_rate=99606&cwnd=252&unsent_bytes=0&cid=4893063146921434&ts=111&x=0"

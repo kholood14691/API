@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="API Automation Suite">
+    <listeners>
+        <listener class-name="utilities.TestNGListener"/>
+    </listeners>
+    <test name="API Automation Tests">
+        <classes>
+            <class name="tests.UserTests"/>
+        </classes>
+    </test>
+</suite>

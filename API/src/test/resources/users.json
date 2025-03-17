@@ -1,0 +1,18 @@
+[
+  {
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+  },
+  {
+    "name": "Angelina Jolie",
+    "job": "Actor",
+    "updatedName": "Angelina Fakhry",
+    "updatedJob": "Doctor"
+  },
+  {
+    "name": "Scarlett Johnson",
+    "job": "Model",
+    "updatedName": "Scarlett Sayed",
+    "updatedJob": "Fashion Designer"
+  }
+]
